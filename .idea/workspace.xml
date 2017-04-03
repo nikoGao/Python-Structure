@@ -50,11 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="divideBy2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="divideBy2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Structure/Chapter_3/divideBy2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
               <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="infixToPostfix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Structure/Chapter_3/infixToPostfix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -79,6 +89,7 @@
         <option value="$PROJECT_DIR$/Structure/Chapter_3/Stack.py" />
         <option value="$PROJECT_DIR$/Structure/Chapter_3/simple balanced parentheses.py" />
         <option value="$PROJECT_DIR$/Structure/Chapter_3/divideBy2.py" />
+        <option value="$PROJECT_DIR$/Structure/Chapter_3/infixToPostfix.py" />
       </list>
     </option>
   </component>
@@ -174,7 +185,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.divideBy2">
+  <component name="RunManager" selected="Python.infixToPostfix">
     <configuration default="false" name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,6 +250,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Structure" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Structure/Chapter_3/divideBy2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="infixToPostfix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Structure/Chapter_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Structure/Chapter_3/infixToPostfix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -377,18 +405,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Homework" />
       <item index="1" class="java.lang.String" itemvalue="Python.Stack" />
       <item index="2" class="java.lang.String" itemvalue="Python.simple balanced parentheses" />
       <item index="3" class="java.lang.String" itemvalue="Python.divideBy2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.infixToPostfix" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.divideBy2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simple balanced parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Stack" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Homework" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.infixToPostfix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.divideBy2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple balanced parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Stack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Homework" />
       </list>
     </recent_temporary>
   </component>
@@ -496,6 +526,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Structure/Chapter_3/infixToPostfix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>
